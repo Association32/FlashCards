@@ -1,0 +1,12 @@
+﻿Del i system där fel orsakar stora problem.;Felkritisk systemdel, Single point of failure.
+Innebär at någonhar påtagit sig en grad av ansvar ochkan hållas ansvarig.; Ansvarighet, Accountability
+Utvecklingsmetod som innebär att man gör klart ett steg i taget; Sekvensiell
+SQL för att söka i och hantera en databas;DML
+SQL för att skapa en databas;DDL
+Del av CPU som instruerar buss att läsa instruktion från sector;Prefetch unit
+Kluster av datorer för uträkning;Symetric processing, paralell processing
+Text-kodning för flera språk;Unicode
+Enkel Text-kodning;ascii
+Antal tecken i ascii;256
+Term för om CPU är 32 eller 64 bit;Word size
+Delar av CPU som översätter instruktion från prefetcher;Decode unit 
